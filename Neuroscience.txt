@@ -1,0 +1,19 @@
+A Proposal for an Electrical Signal-Based Understanding Model of Memory, Cognition, and Thought in Neuroscience
+Summary
+This study proposes a new theoretical approach to how memory, cognition, and thought are processed in the brain. Memory is stored in the brain as a 3D heat map of electrical signals in the form of snapshot data, while cognition converts information from the outside world into similar snapshot data, which is processed through pattern matching with existing memory data. Thinking is the process of comparing existing memory snapshots with each other and synthesizing new snapshot data. Misunderstandings and illusions are thought to be due to errors in this pattern fitting process.
+
+Snapshot Model of Memory
+Memory is stored in the brain as a three-dimensional heat map of snapshots formed by electrical signals. In this model, information obtained through experience and learning is encoded into specific neural circuit patterns and stored as memories.
+
+The Pattern-Fitting Process of Cognition
+In the cognitive process, external stimuli are received by the sensory organs and the brain converts this into a three-dimensional heat map of electrical signals. The brain compares this new data with existing memory snapshots and finds the most similar patterns, which is how recognition and understanding occur.
+
+Synthetic Mechanisms of Thought
+The thought process proceeds by comparison among stored memory snapshots and synthesis of new snapshot data. In this process, multiple memory data are related and new ideas and solutions are generated.
+
+Sources of Misunderstanding and Illusion
+Cognitive errors, misconceptions, and illusions are understood as errors that occur in the pattern fitting process. Inaccurate information matching and incomplete data interpretation lead to incorrect recognition and understanding.
+
+Conclusion.
+The proposed model advances our understanding of data processing based on electrical signals in the brain and paves the way for further research on the neuroscientific basis of memory, cognition, and thinking. It is also hoped that this theory will provide new insights into treatment approaches for dementia and other nervous system disorders.
+
